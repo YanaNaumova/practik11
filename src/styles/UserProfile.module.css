@@ -1,0 +1,14 @@
+.containerUserProfile {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  gap: 15px;
+  padding: 10px;
+}
+
+.btn {
+  max-width: 150px;
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+}

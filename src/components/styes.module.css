@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  gap: 15px;
+  background-color: black;
+  height: 50px;
+  align-items: center;
+}
+
+.liStyle {
+  list-style-type: none;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
