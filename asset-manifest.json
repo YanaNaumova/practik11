@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practik11/static/css/main.94b38c55.css",
+    "main.js": "/practik11/static/js/main.6bc16c97.js",
+    "index.html": "/practik11/index.html",
+    "main.94b38c55.css.map": "/practik11/static/css/main.94b38c55.css.map",
+    "main.6bc16c97.js.map": "/practik11/static/js/main.6bc16c97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b38c55.css",
+    "static/js/main.6bc16c97.js"
+  ]
+}
